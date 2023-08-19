@@ -5,7 +5,7 @@ import time
 
 
 
-open.ai_key = "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"
+open.ai_key = ""
 
 engine = pyttsx3.init()
 wakeWord = "Genuis"
